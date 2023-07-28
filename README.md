@@ -1,6 +1,14 @@
 # springboot-jpa
 스프링부트 JPA 위클리미션을 코드리뷰하는 Repository입니다.
 
+### 과제 진행 Branch
+[Mission1](https://github.com/sujjangOvO/springboot-jpa/tree/weekly1)
+
+[Mission2](https://github.com/sujjangOvO/springboot-jpa/tree/weekly2)
+
+[Mission3](https://github.com/sujjangOvO/springboot-jpa/tree/weekly3)
+
+---
 ### 이번 코드리뷰가 이루어지는 과정
 1. 백둥이끼리 코드리뷰를 진행합니다.
 2. 백둥이끼리의 코드리뷰가 마치면, 멘토님에게 2차 리뷰를 요청합니다.  
