@@ -27,7 +27,6 @@ public class Customer {
 	}
 
 	private String validateName(String name) {
-
 		boolean validator = Pattern.matches(NAME_PATTERN, name);
 
 		if (validator) {
